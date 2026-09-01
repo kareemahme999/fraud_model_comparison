@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1,ROC-AUC,PR-AUC,Composite Score,Opt Threshold,Tuned Recall,Tuned Precision,Tuned F1,Tuned Composite
+XGBoost,0.29,0.8211,0.4286,0.9759,0.7995,0.7028,0.91,0.7579,0.8889,0.8182,0.8365
+Random Forest,0.6818,0.7895,0.7317,0.9817,0.7861,0.8144,0.73,0.7474,0.8353,0.7889,0.8226
+Logistic Regression,0.053,0.8737,0.1,0.9626,0.675,0.5864,0.99,0.7895,0.6098,0.6881,0.7922
